@@ -1,0 +1,10 @@
+/Users/Mathieu/Source/hackfestAzureAppService/bin/Debug/netcoreapp2.0/hackfestAzureAppService.deps.json
+/Users/Mathieu/Source/hackfestAzureAppService/bin/Debug/netcoreapp2.0/hackfestAzureAppService.runtimeconfig.json
+/Users/Mathieu/Source/hackfestAzureAppService/bin/Debug/netcoreapp2.0/hackfestAzureAppService.runtimeconfig.dev.json
+/Users/Mathieu/Source/hackfestAzureAppService/bin/Debug/netcoreapp2.0/hackfestAzureAppService.dll
+/Users/Mathieu/Source/hackfestAzureAppService/bin/Debug/netcoreapp2.0/hackfestAzureAppService.pdb
+/Users/Mathieu/Source/hackfestAzureAppService/obj/Debug/netcoreapp2.0/hackfestAzureAppService.csproj.CoreCompileInputs.cache
+/Users/Mathieu/Source/hackfestAzureAppService/obj/Debug/netcoreapp2.0/hackfestAzureAppService.AssemblyInfoInputs.cache
+/Users/Mathieu/Source/hackfestAzureAppService/obj/Debug/netcoreapp2.0/hackfestAzureAppService.AssemblyInfo.cs
+/Users/Mathieu/Source/hackfestAzureAppService/obj/Debug/netcoreapp2.0/hackfestAzureAppService.dll
+/Users/Mathieu/Source/hackfestAzureAppService/obj/Debug/netcoreapp2.0/hackfestAzureAppService.pdb
